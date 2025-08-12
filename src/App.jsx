@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="Hero bg-[#EFF5E1] w-full h-screen">
-     <header className="header flex justify-between items-center p-4">
+     <header className="header flex justify-between items-center p-4 font-[Inter]-serif">
         <h1>skincare</h1>
         <nav className="navbar flex justify-between items-center gap-120">
           <ul className="nav-elements flex justify-between items-center p-2 gap-4">
